@@ -1,1 +1,1 @@
-2026 study-tour
+# study-tour
